@@ -1,0 +1,12 @@
+just-the-remuxed-file:
+  -
+
+some-cuts:
+  00:00:25 - 00:00:41
+  00:00:41 - 00:00:41.001
+  00:10:05 - 11:05
+
+with-automatic-beginning-and-end:
+   - 00:00:25
+  00:00:43 - 00:1:00
+  00:14:00 -
